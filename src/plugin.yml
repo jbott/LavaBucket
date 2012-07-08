@@ -1,0 +1,7 @@
+author: Jbott
+database: false
+description: "Gives you your bucket back after you fill a furnace"
+main: com.jbott.lavabucket.LavaBucket
+name: LavaBucket
+startup: postworld
+version: '1.0'
